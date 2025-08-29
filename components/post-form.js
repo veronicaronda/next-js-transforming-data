@@ -1,7 +1,7 @@
 "use client";
 
 import { useFormState } from "react-dom";
-import FormSubmit from "@/components/form-sumbit";
+import FormSubmit from "@/components/form-submit";
 
 export default function PostForm({action}){
 
